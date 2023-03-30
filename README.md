@@ -36,5 +36,6 @@ Now the data is imported successfully and ready to use for analysis.
 ![image](https://user-images.githubusercontent.com/51818222/224518879-cfeb344c-0c65-4a25-af15-04c10962e109.png)
 
 
+Once the data is ready, to get the information from the data wriiten sql queries.
 
-
+Later visualisations are made, to draw the relations between the data.
